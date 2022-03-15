@@ -1,0 +1,1 @@
+Todo application with React, Next, and Supabase.
